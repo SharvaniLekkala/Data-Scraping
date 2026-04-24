@@ -1,0 +1,6 @@
+requests==2.31.0
+beautifulsoup4==4.12.3
+yt-dlp==2024.4.9
+youtube-transcript-api==0.6.2
+langdetect==1.0.9
+python-dateutil==2.9.0.post0
